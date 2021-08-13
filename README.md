@@ -6,7 +6,7 @@ This is a novel approach inspired by the latest works in the domain. To find the
 
 The results are then compared with all the standard models and judged on the metric Final Infected Scale. This scale is calculated using the Susceptible - Infected - Recovery(SIR) Model. 
 
-The model is judged on 6 datasets and final results are plotted on a FTC VS Spreader Fraction graph and compared with 6 different standard models.
+The model is judged on 7 datasets and final results are plotted on a FTC VS Spreader Fraction graph and compared with 6 different standard models.
 
 
 
